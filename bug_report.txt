@@ -1,1 +1,6 @@
-
+Steps to play:
+Open site": Bookstor,
+Click button: Pa,
+Enter in the field card: Visa card.
+Result: Payment failed, please check the method,
+Expect Result: paid successful.
