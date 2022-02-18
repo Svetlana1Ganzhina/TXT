@@ -1,5 +1,4 @@
-1)Ganzhina Svetlana Denisovna;
+i1)Ganzhina Svetlana Denisovna;
 2)Age:24;
 3)I don't have pet;
 4)Future salary:1000.
-
